@@ -1,0 +1,9 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A prime number checker module",
+  "keywords": ["prime", "checker", "math"],
+  "license": "MIT",
+  "author": "freeCodeCamp",
+  "type": "commonjs"
+}
